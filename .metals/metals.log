@@ -1,0 +1,321 @@
+2022.06.19 23:09:16 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/lsp.trace.json or /home/codespair/.cache/metals/lsp.trace.json[0m
+2022.06.19 23:09:16 INFO  logging to file /home/codespair/Code/skatas/.metals/metals.log[0m
+2022.06.19 23:09:16 INFO  Started: Metals version 0.11.6 in workspace '/home/codespair/Code/skatas' for client Visual Studio Code 1.68.1.[0m
+2022.06.19 23:09:16 INFO  time: initialize in 0.37s[0m
+2022.06.19 23:09:16 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.[0m
+2022.06.19 23:09:16 WARN  Build server is not auto-connectable.[0m
+2022.06.19 23:09:28 WARN  no build target for: /home/codespair/Code/skatas/build.sbt[0m
+2022.06.19 23:09:29 INFO  no build target found for /home/codespair/Code/skatas/build.sbt. Using presentation compiler with project's scala-library version: 3.1.2[0m
+2022.06.19 23:09:30 INFO  time: code lens generation in 1.61s[0m
+Jun 19, 2022 11:09:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.06.19 23:09:41 INFO  running '/home/codespair/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3128145857101587498/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.06.19 23:09:42 WARN  no build target for: /home/codespair/Code/skatas/project/metals.sbt[0m
+2022.06.19 23:09:42 WARN  no build target for: /home/codespair/Code/skatas/project/project/metals.sbt[0m
+2022.06.19 23:09:42 INFO  skipping build import with status 'Started'[0m
+2022.06.19 23:09:42 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 11.0.12)[0m
+2022.06.19 23:09:43 INFO  running '/home/codespair/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals6881075592089624334/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.06.19 23:09:43 INFO  running '/home/codespair/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals2117496424845486244/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.06.19 23:09:44 INFO  [info] loading settings for project skatas-build-build from metals.sbt ...[0m
+2022.06.19 23:09:44 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 11.0.12)[0m
+2022.06.19 23:09:44 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 11.0.12)[0m
+2022.06.19 23:09:44 INFO  [info] loading project definition from /home/codespair/Code/skatas/project/project[0m
+2022.06.19 23:09:44 INFO  [info] loading settings for project skatas-build-build from metals.sbt ...[0m
+2022.06.19 23:09:44 INFO  [info] loading settings for project skatas-build-build from metals.sbt ...[0m
+2022.06.19 23:09:45 INFO  [info] loading project definition from /home/codespair/Code/skatas/project/project[0m
+2022.06.19 23:09:45 INFO  [info] loading project definition from /home/codespair/Code/skatas/project/project[0m
+2022.06.19 23:09:47 INFO  [info] loading settings for project skatas-build from metals.sbt ...[0m
+2022.06.19 23:09:47 INFO  [info] loading project definition from /home/codespair/Code/skatas/project[0m
+2022.06.19 23:09:48 INFO  [info] loading settings for project skatas-build from metals.sbt ...[0m
+2022.06.19 23:09:48 INFO  [info] loading project definition from /home/codespair/Code/skatas/project[0m
+2022.06.19 23:09:49 INFO  user cancelled sbt bloopInstall[0m
+2022.06.19 23:09:49 ERROR [info] waiting for lock on /home/codespair/.ivy2/exclude_classifiers.lock to be available...[0m
+2022.06.19 23:09:49 INFO  time: ran 'sbt bloopInstall' in 5.69s[0m
+2022.06.19 23:09:49 INFO  user cancelled sbt bloopInstall[0m
+2022.06.19 23:09:49 INFO  time: ran 'sbt bloopInstall' in 6.33s[0m
+2022.06.19 23:09:49 INFO  [success] Generated .bloop/skatas-build.json[0m
+2022.06.19 23:09:49 INFO  [success] Total time: 2 s, completed Jun 19, 2022, 11:09:49 PM[0m
+2022.06.19 23:09:50 INFO  user cancelled sbt bloopInstall[0m
+2022.06.19 23:09:50 INFO  time: ran 'sbt bloopInstall' in 8.39s[0m
+2022.06.19 23:09:51 INFO  running '/home/codespair/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals12726705263781520386/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.06.19 23:09:52 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 11.0.12)[0m
+2022.06.19 23:09:52 INFO  [info] loading settings for project skatas-build-build from metals.sbt ...[0m
+2022.06.19 23:09:52 INFO  [info] loading project definition from /home/codespair/Code/skatas/project/project[0m
+2022.06.19 23:09:53 INFO  [info] loading settings for project skatas-build from metals.sbt ...[0m
+2022.06.19 23:09:53 INFO  [info] loading project definition from /home/codespair/Code/skatas/project[0m
+2022.06.19 23:09:54 INFO  [success] Generated .bloop/skatas-build.json[0m
+2022.06.19 23:09:54 INFO  [success] Total time: 1 s, completed Jun 19, 2022, 11:09:54 PM[0m
+2022.06.19 23:09:55 INFO  [info] loading settings for project root from build.sbt ...[0m
+2022.06.19 23:09:55 INFO  [info] set current project to kata (in build file:/home/codespair/Code/skatas/)[0m
+2022.06.19 23:09:59 INFO  [success] Generated .bloop/root-test.json[0m
+2022.06.19 23:09:59 INFO  [success] Generated .bloop/root.json[0m
+2022.06.19 23:09:59 INFO  [success] Total time: 4 s, completed Jun 19, 2022, 11:09:59 PM[0m
+2022.06.19 23:09:59 INFO  time: ran 'sbt bloopInstall' in 8.45s[0m
+2022.06.19 23:09:59 INFO  Attempting to connect to the build server...[0m
+2022.06.19 23:10:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/bsp.trace.json or /home/codespair/.cache/metals/bsp.trace.json[0m
+2022.06.19 23:10:05 INFO  Attempting to connect to the build server...[0m
+2022.06.19 23:10:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/project/.metals/bsp.trace.json or /home/codespair/.cache/metals/bsp.trace.json[0m
+2022.06.19 23:10:07 INFO  time: Connected to build server in 7.43s[0m
+2022.06.19 23:10:07 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b[0m
+2022.06.19 23:10:10 INFO  time: indexed workspace in 3.21s[0m
+2022.06.19 23:10:13 INFO  time: code lens generation in 1.78s[0m
+2022.06.19 23:10:57 INFO  compiling root (2 scala sources)[0m
+2022.06.19 23:10:58 INFO  time: compiled root in 1.38s[0m
+2022.06.19 23:10:58 INFO  compiling root (2 scala sources)[0m
+2022.06.19 23:10:58 INFO  time: compiled root in 0.17s[0m
+2022.06.19 23:11:15 INFO  compiling root (2 scala sources)[0m
+2022.06.19 23:11:15 INFO  time: compiled root in 0.23s[0m
+2022.06.19 23:11:25 INFO  compiling root (2 scala sources)[0m
+2022.06.19 23:11:25 ERROR code navigation does not work for the file '/home/codespair/Code/skatas/src/main/scala/dk/codella/skatas/calculator/Calculator.scala' because the build target root is being compiled. Wait until compilation is finished and try again.[0m
+2022.06.19 23:11:25 INFO  time: compiled root in 0.96s[0m
+2022.06.19 23:11:50 INFO  compiling root-test (1 scala source)[0m
+2022.06.19 23:11:50 INFO  time: compiled root-test in 0.13s[0m
+2022.06.19 23:13:10 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:10 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:10 INFO  Starting debug proxy for [dk.codella.skatas.calculator.CalculatorTest()][0m
+2022.06.19 23:13:11 INFO  Trying to attach to remote debuggee VM localhost:36065 .[0m
+2022.06.19 23:13:11 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:13:11 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.CalculatorTest()][0m
+2022.06.19 23:13:11 INFO  Closing debug server tcp://0.0.0.0:37863[0m
+2022.06.19 23:13:16 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 3m 10.814s)[0m
+2022.06.19 23:13:16 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:16 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:16 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:13:16 INFO  Trying to attach to remote debuggee VM localhost:52213 .[0m
+2022.06.19 23:13:16 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:13:30 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 3m 25.39s)[0m
+2022.06.19 23:13:30 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:30 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:30 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:13:30 INFO  Trying to attach to remote debuggee VM localhost:37525 .[0m
+2022.06.19 23:13:30 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:13:44 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 3m 38.818s)[0m
+2022.06.19 23:13:44 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:44 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:44 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:13:44 INFO  Trying to attach to remote debuggee VM localhost:55219 .[0m
+2022.06.19 23:13:44 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:13:49 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 3m 44.244s)[0m
+2022.06.19 23:13:49 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:49 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:49 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:13:49 INFO  Trying to attach to remote debuggee VM localhost:45167 .[0m
+2022.06.19 23:13:49 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:13:50 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.6' (since 3m 45.444s)[0m
+2022.06.19 23:13:50 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.06.19 23:13:50 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.06.19 23:13:50 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:13:50 INFO  Trying to attach to remote debuggee VM localhost:55729 .[0m
+2022.06.19 23:13:50 INFO  Attaching to debuggee VM succeeded.[0m
+2022.06.19 23:14:17 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:14:17 INFO  Closing debug server tcp://0.0.0.0:46113[0m
+2022.06.19 23:14:17 ERROR Read data from io exception: java.net.SocketException: Socket closed[0m
+2022.06.19 23:14:17 ERROR Exception in thread "main" [0m
+2022.06.19 23:14:18 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:14:19 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:14:19 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.06.19 23:14:20 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+Jun 19, 2022 11:30:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 19, 2022 11:30:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 19, 2022 11:37:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 19, 2022 11:37:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.06.19 23:38:32 INFO  shutting down Metals[0m
+2022.06.19 23:38:32 INFO  Shut down connection with build server.[0m
+2022.06.19 23:38:33 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4bbdedec[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 4432]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Jun 19, 2022 11:38:33 PM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireStreamClosed
+INFO: The input stream was closed.
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/sun.nio.ch.SourceChannelImpl.endRead(SourceChannelImpl.java:241)
+	at java.base/sun.nio.ch.SourceChannelImpl.read(SourceChannelImpl.java:259)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:59)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:107)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:101)
+	at java.base/java.io.InputStream.read(InputStream.java:205)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:81)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:79)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2022.07.03 22:47:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/lsp.trace.json or /home/codespair/.cache/metals/lsp.trace.json[0m
+2022.07.03 22:47:44 INFO  logging to file /home/codespair/Code/skatas/.metals/metals.log[0m
+2022.07.03 22:47:44 INFO  Started: Metals version 0.11.6 in workspace '/home/codespair/Code/skatas' for client Visual Studio Code 1.68.1.[0m
+2022.07.03 22:47:45 INFO  time: initialize in 0.47s[0m
+2022.07.03 22:47:45 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.[0m
+2022.07.03 22:47:44 INFO  Attempting to connect to the build server...[0m
+2022.07.03 22:47:45 INFO  skipping build import with status 'Installed'[0m
+Jul 03, 2022 10:47:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 03, 2022 10:47:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 03, 2022 10:47:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.03 22:47:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/bsp.trace.json or /home/codespair/.cache/metals/bsp.trace.json[0m
+2022.07.03 22:47:48 INFO  shutting down Metals[0m
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@55d64a18[Shutting down, pool size = 2, active threads = 2, queued tasks = 0, completed tasks = 29]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Jul 03, 2022 10:47:48 PM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireStreamClosed
+INFO: The input stream was closed.
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/sun.nio.ch.SourceChannelImpl.endRead(SourceChannelImpl.java:241)
+	at java.base/sun.nio.ch.SourceChannelImpl.read(SourceChannelImpl.java:259)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:59)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:107)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:101)
+	at java.base/java.io.InputStream.read(InputStream.java:205)
+	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:81)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:79)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+2022.07.09 23:17:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/lsp.trace.json or /home/codespair/.cache/metals/lsp.trace.json[0m
+2022.07.09 23:17:27 INFO  logging to file /home/codespair/Code/skatas/.metals/metals.log[0m
+2022.07.09 23:17:27 INFO  Started: Metals version 0.11.7 in workspace '/home/codespair/Code/skatas' for client Visual Studio Code 1.69.0.[0m
+2022.07.09 23:17:28 INFO  time: initialize in 0.38s[0m
+2022.07.09 23:17:28 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.[0m
+2022.07.09 23:17:27 INFO  Attempting to connect to the build server...[0m
+2022.07.09 23:17:27 INFO  Bloop uses /home/codespair/.sdkman/candidates/java/11.0.12-open defined at /home/codespair/.bloop/bloop.json[0m
+2022.07.09 23:17:28 INFO  skipping build import with status 'Installed'[0m
+2022.07.09 23:17:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/bsp.trace.json or /home/codespair/.cache/metals/bsp.trace.json[0m
+2022.07.09 23:17:30 INFO  Attempting to connect to the build server...[0m
+2022.07.09 23:17:30 INFO  Bloop uses /home/codespair/.sdkman/candidates/java/11.0.12-open defined at /home/codespair/.bloop/bloop.json[0m
+2022.07.09 23:17:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/project/.metals/bsp.trace.json or /home/codespair/.cache/metals/bsp.trace.json[0m
+2022.07.09 23:17:32 INFO  time: Connected to build server in 3.93s[0m
+2022.07.09 23:17:32 INFO  Connected to Build server: Bloop v1.5.2[0m
+2022.07.09 23:17:34 INFO  time: indexed workspace in 2.4s[0m
+2022.07.09 23:18:11 INFO  compiling root (2 scala sources)[0m
+2022.07.09 23:18:13 INFO  compiling root-test (1 scala source)[0m
+2022.07.09 23:18:13 INFO  time: compiled root in 2.11s[0m
+2022.07.09 23:18:13 INFO  time: compiled root-test in 0.17s[0m
+2022.07.09 23:18:15 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.07.09 23:18:15 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.07.09 23:18:15 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:18:16 INFO  Trying to attach to remote debuggee VM localhost:47497 .[0m
+2022.07.09 23:18:16 INFO  Attaching to debuggee VM succeeded.[0m
+2022.07.09 23:18:31 INFO  Closing debug server tcp://0.0.0.0:43201[0m
+2022.07.09 23:18:31 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:18:34 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.7' (since 1m 3.348s)[0m
+2022.07.09 23:18:34 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.07.09 23:18:34 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.07.09 23:18:34 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:18:34 INFO  Trying to attach to remote debuggee VM localhost:36353 .[0m
+2022.07.09 23:18:34 INFO  Attaching to debuggee VM succeeded.[0m
+2022.07.09 23:18:44 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:18:44 INFO  Closing debug server tcp://0.0.0.0:37875[0m
+2022.07.09 23:18:53 INFO  Deduplicating compilation of root from bsp client 'Metals 0.11.7' (since 1m 22.312s)[0m
+2022.07.09 23:18:53 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.07.09 23:18:53 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.07.09 23:18:53 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:18:53 INFO  Trying to attach to remote debuggee VM localhost:41439 .[0m
+2022.07.09 23:18:53 INFO  Attaching to debuggee VM succeeded.[0m
+2022.07.09 23:19:04 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:19:04 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-server.trace.json or /home/codespair/.cache/metals/dap-server.trace.json[0m
+2022.07.09 23:19:04 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/codespair/Code/skatas/.metals/dap-client.trace.json or /home/codespair/.cache/metals/dap-client.trace.json[0m
+2022.07.09 23:19:04 INFO  Starting debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:19:04 INFO  Trying to attach to remote debuggee VM localhost:49597 .[0m
+2022.07.09 23:19:04 INFO  Attaching to debuggee VM succeeded.[0m
+2022.07.09 23:19:05 INFO  Canceling debug proxy for [dk.codella.skatas.calculator.calculator][0m
+2022.07.09 23:19:05 INFO  Closing debug server tcp://0.0.0.0:38579[0m
+2022.07.09 23:19:05 ERROR Exception in thread "main" java.io.EOFException: Console has reached end of input[0m
+Jul 09, 2022 11:19:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
